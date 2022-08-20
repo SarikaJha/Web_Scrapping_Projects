@@ -1,0 +1,98 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "url": "/title/tt0093603/",
+    "name": "Nayakan",
+    "image": "https://m.media-amazon.com/images/M/MV5BNDViYzdlZjMtNTA2NS00MThhLWEwYTktNTE0OGZlNjJiZDJlXkEyXkFqcGdeQXVyODEzOTQwNTY@._V1_.jpg",
+    "description": "A common man&apos;s struggles against a corrupt police force put him on the wrong side of the law. He becomes a don, who is loved and respected by many, but his growing power and influence exact a heavy toll.",
+    "review": {
+        "@type": "Review",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0093603/"
+        },
+        "author": {
+            "@type": "Person",
+            "name": "AvinashPatalay"
+        },
+        "dateCreated": "2011-05-26",
+        "inLanguage": "English",
+        "name": "Mani Ratnam &amp; Kamal Hassan create history with this masterpiece",
+        "reviewBody": "&quot;Nayagan&quot; is akin to a rare astronomical event wherein the constellations form a perfect alignment to create a spectacular extravaganza. Mani Ratnam, Kamal Hassan &amp; Ilayaraja weaved magic that captured the heart of audience by storm. \n\nThere cannot be a second opinion if I were to state that this role was destined for one and only Kamal Hassan. You cannot fail to notice the subtle changes in the body language, mannerism, gait and dialogue delivery that go about with the ageing process of the Sakthivelu. Starting with the rebel youth and all the way to the ageing Godfather, the natural transformation was effortlessly essayed by Kamal. Saranya, Ravi, Kartika, Nasser and Tinnu Anand leave a mark otherwise there isn&apos;t much scope for supporting star-cast. \n\nIlayaraja compositions were a raging hit back then. P C Sriram (cinematography) &amp; Thota Tharani (art direction) ensured to give a distinct Mani Ratnam feel to the visuals (a spillover of &quot;Agni Natchathiram&quot;). \n\nThough the plot rests on the basic premise of Mario Puzo&apos;s &quot;The Godfather&quot;, top notch writing narrating the biography of Mumbai based Tamil gangster of the 80s, Varadarajan Mudaliar stands to its own.\n\nIf &quot;Mouna Ragam&quot; and &quot;Agni Natchathiram&quot; got him noticed then &quot;Nayagan&quot; stamped the title of maverick to Mani Ratnam. It goes without saying that while &quot;Nayagan&quot; set a precedent for fellow film-makers, Mani Ratnam started the revolution in the Tamil cinema. \n\nPS: The Hindi remake, &quot;Dayavan&quot; attempted by Feroz Khan and Vinod Khanna was sadly a classic case of &quot;lost in translation&quot;."
+    },
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingCount": 19966,
+        "bestRating": 10,
+        "worstRating": 1,
+        "ratingValue": 8.6
+    },
+    "contentRating": "A",
+    "genre": [
+        "Crime",
+        "Drama"
+    ],
+    "datePublished": "1987-10-21",
+    "keywords": "mafia,childhood,rise to power,revenge,respect",
+    "trailer": {
+        "@type": "VideoObject",
+        "name": "Nayakan trailer",
+        "embedUrl": "/video/imdb/vi155499289",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BNDhiMjM4YTQtZmE1MS00NWNjLTgzMjQtYjEzODdjMjI0OTZjXkEyXkFqcGdeQXRodW1ibmFpbC1pbml0aWFsaXplcg@@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BNDhiMjM4YTQtZmE1MS00NWNjLTgzMjQtYjEzODdjMjI0OTZjXkEyXkFqcGdeQXRodW1ibmFpbC1pbml0aWFsaXplcg@@._V1_.jpg",
+        "description": "A common man&apos;s struggles against a corrupt police force put him on the wrong side of the law. He becomes a don, who is loved and respected by many, but his growing power and influence exact a heavy toll."
+    },
+    "actor": [
+        {
+            "@type": "Person",
+            "url": "/name/nm0352032/",
+            "name": "Kamal Haasan"
+        },
+        {
+            "@type": "Person",
+            "url": "/name/nm0764853/",
+            "name": "Saranya Ponvannan"
+        },
+        {
+            "@type": "Person",
+            "url": "/name/nm0304265/",
+            "name": "Delhi Ganesh"
+        }
+    ],
+    "director": [
+        {
+            "@type": "Person",
+            "url": "/name/nm0711745/",
+            "name": "Mani Ratnam"
+        }
+    ],
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0041293/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0074150/"
+        },
+        {
+            "@type": "Person",
+            "url": "/name/nm0049400/",
+            "name": "Balakumaran"
+        },
+        {
+            "@type": "Person",
+            "url": "/name/nm0707366/",
+            "name": "Rajasri"
+        },
+        {
+            "@type": "Person",
+            "url": "/name/nm0711745/",
+            "name": "Mani Ratnam"
+        }
+    ],
+    "duration": "PT2H36M"
+}

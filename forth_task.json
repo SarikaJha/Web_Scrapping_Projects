@@ -1,0 +1,15 @@
+{
+    "Movie": "Nayakan",
+    "Director": [
+        "Mani Ratnam"
+    ],
+    "Country": "india",
+    "Language": "English",
+    "Image": "https://m.media-amazon.com/images/M/MV5BNDViYzdlZjMtNTA2NS00MThhLWEwYTktNTE0OGZlNjJiZDJlXkEyXkFqcGdeQXVyODEzOTQwNTY@._V1_.jpg",
+    "Description": "A common man&apos;s struggles against a corrupt police force put him on the wrong side of the law. He becomes a don, who is loved and respected by many, but his growing power and influence exact a heavy toll.",
+    "Runtime": "PT2H36M",
+    "Genre": [
+        "Crime",
+        "Drama"
+    ]
+}
